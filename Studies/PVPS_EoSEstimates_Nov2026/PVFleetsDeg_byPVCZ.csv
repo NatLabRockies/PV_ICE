@@ -1,6 +1,5 @@
-﻿,,% Cohort,,,,,,
-Years before reaching 80%,Degradation Rate,USA PV Fleets,USA PV Fleets (H method),France (T3:T4),Italy (T4:T5),Spain (T4:T5:T6),Germany (T3),Netherlands (T3)
-100,-0.01,,9.06,9.52,7.05,8.15,10.34,10.34
+﻿Years before reaching 80%,Degradation Rate,USA PV Fleets,USA PV Fleets (H method),France (T3:T4),Italy (T4:T5),Spain (T4:T5:T6),Germany (T3),Netherlands (T3)
+100,-0.01,0,9.06,9.52,7.05,8.15,10.34,10.34
 100,-0.2,18.42,12.71,12.735,9.72,11.61,15.38,15.38
 50,-0.4,10.06,15.26,14.55,15.895,15.4,14.4,14.4
 33,-0.6,12.3,14.19,12.705,15.785,14.65,12.37,12.37
